@@ -13,6 +13,7 @@ Additionally the data mart is contained in a single file which can be installed 
 * Multiple currency support with automatic conversion
 * Integrated reservation system for guests
 * Procedures for managing financial data
+* Included sample data for testing the data mart
 
 ## Installation
 For using the data mart, you need a server environment which supports MySQL or MariaDB. For a local installation the XAMPP packages can be used.
