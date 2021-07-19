@@ -1,7 +1,7 @@
 # Airbnb Data Mart : SQL Database for temporal renting of lodgings
 
 ## Overview
-Much like the well-known website Airbnb, the Airbnb Data Mart is a SQL database featuring a database structure and stored procedures fit for the use case of temporal renting of lodgings.
+Inspired by the well-known website Airbnb, the Airbnb Data Mart is a SQL database featuring a database structure and stored procedures fit for the use case of temporal renting of lodgings.
 The application supports the creation and managing of lodgings for hosts and the ability to make reservations for users.
 Additionally the data mart is contained in a single file which can be installed on every server capable of interpreting MySQL or MariaDB.
 
