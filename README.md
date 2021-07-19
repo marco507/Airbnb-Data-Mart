@@ -16,7 +16,7 @@ Additionally the data mart is contained in a single file which can be installed 
 * Included sample data for testing the data mart
 
 ## Installation
-For using the data mart, you need a server environment which supports MySQL or MariaDB. For a local installation the XAMPP packages can be used.
+For using the data mart, you need a server environment which supports MySQL or MariaDB. For a local installation the XAMPP package can be used.
 1. Download XAMPP from [Apache Friends](https://www.apachefriends.org/) and the data_mart.sql file
 2. Install XAMPP and start the XAMPP Control Panel
 3. Start the Apache and MySQL module and open a webbrowser
