@@ -9,7 +9,7 @@ Additionally the data mart is contained in a single file which can be installed 
 * Creation of various types of lodgings
 * Pre-defined furniture, rooms, rules and policies for structuring a lodging
 * Support for search functionality according to characteristics or geographical location
-* A proximity search feature, based on longitude and latitude
+* A proximity search feature based on longitude and latitude
 * Multiple currency support with automatic conversion
 * Integrated reservation system for guests
 * Procedures for managing financial data
