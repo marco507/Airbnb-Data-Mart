@@ -3,7 +3,7 @@
 ## Overview
 Inspired by the well-known website Airbnb, the Airbnb Data Mart is a SQL database featuring a database structure and stored procedures fit for the use case of temporal renting of lodgings.
 The application supports the creation and managing of lodgings for hosts and the ability to make reservations for users.
-Additionally the data mart is contained in a single file which can be installed on every server that is capable of interpreting MySQL or MariaDB and supports PhpMyAdmin.
+Additionally the data mart is contained in a single file which can be installed on every server that is capable of interpreting MariaDB and supports PhpMyAdmin.
 
 ## Features
 * Creation of various types of lodgings
@@ -16,7 +16,7 @@ Additionally the data mart is contained in a single file which can be installed 
 * Included sample data for testing the data mart
 
 ## Installation
-For using the data mart, you need a server environment which supports MySQL or MariaDB and PhpMyAdmin. For a local installation the XAMPP package can be used.
+For using the data mart, you need a server environment which supports MariaDB and PhpMyAdmin. For a local installation the XAMPP package can be used.
 1. Download XAMPP from [Apache Friends](https://www.apachefriends.org/) and the data_mart.sql file
 2. Install XAMPP and start the XAMPP Control Panel
 3. Start the Apache and MySQL module and open a webbrowser
